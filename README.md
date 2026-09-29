@@ -6,7 +6,7 @@
 ---
 
 ## 1. Executive Summary
-This report describes the computational variant prioritization pipeline used to identify the primary pathogenic genetic cause for proband EX2312012 presenting with clinical features of Mosaic Variegated Aneuploidy (MVA). 
+This report describes the computational variant prioritization pipeline used to identify the primary pathogenic genetic cause for proband PROBAND01 presenting with clinical features of Mosaic Variegated Aneuploidy (MVA). 
 
 Using quality-filtered variant extraction, MVA gene panel targeting, and functional annotation via Ensembl Variant Effect Predictor (VEP), two primary findings were isolated:
 1. **Compound Heterozygous Pair in *BUB1B*** (Chr15:40209701 `T>G` `stop_gained` AND Chr15:40220612 `T>G` `missense_variant`), presenting a loss-of-function compound heterozygous model for **MVA Syndrome Type 1** (OMIM #257300).
