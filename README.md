@@ -1,6 +1,6 @@
 # Track 1 Methods Description Report
 **Target Disease:** Mosaic Variegated Aneuploidy (MVA) Syndrome  
-**Proband ID:** EX2312012  
+**Proband ID:** PROBAND01
 **Dataset:** Whole Genome Sequencing (WGS) VCF  
 
 ---
