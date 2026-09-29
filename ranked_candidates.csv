@@ -1,0 +1,5 @@
+rank,kind,score,variant_1,variant_2
+1,compound_het,0.848,BUB1B 15:40209701 T>G 0/1 HIGH stop_gained ENSP00000287598.7:p.Leu737Ter AF=9.982e-05,BUB1B 15:40220612 T>G 0/1 MODERATE missense_variant ENSP00000287598.7:p.Asn1002Lys AF=0
+2,single_het,0.448,BUB1B 15:40209701 T>G 0/1 HIGH stop_gained ENSP00000287598.7:p.Leu737Ter AF=9.982e-05,
+3,single_het,0.225,BUB1B 15:40220612 T>G 0/1 MODERATE missense_variant ENSP00000287598.7:p.Asn1002Lys AF=0,
+4,single_het,0.119,ATM 11:108271261 T>C 0/1 MODERATE missense_variant ENSP00000501606.1:p.Ser978Pro AF=0.00495,

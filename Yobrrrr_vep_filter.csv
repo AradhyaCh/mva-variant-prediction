@@ -1,0 +1,5 @@
+proband_id,chrom_1,pos_1,ref_1,alt_1,chrom_2,pos_2,ref_2,alt_2,epcr,finding_type,notes
+PROBAND01,15,40209701,T,G,15,40220612,T,G,0.848,primary,compound_het BUB1B: stop_gained + missense_variant
+PROBAND01,15,40209701,T,G,,,,,0.448,primary,single_het BUB1B: stop_gained
+PROBAND01,15,40220612,T,G,,,,,0.225,primary,single_het BUB1B: missense_variant
+
